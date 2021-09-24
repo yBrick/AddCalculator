@@ -1,0 +1,49 @@
+@font-face {
+  font-family: Poppins;
+  src: url(Poppins-Light.ttf);
+}
+body{
+  background-color: #f890e7;
+}
+.button
+{
+  background-color: #0bd3d3;
+  border-color: #FFFFFF;
+  color:white;
+  height:65px;
+  width: 65px;
+  font-size:20px;
+  border-width: 4px;
+
+}
+
+#clearIT
+{
+font-size:23px;
+font-family: Poppins;
+height:65px;
+width:90px;
+}
+h1
+{
+  color: white;
+}
+p
+{
+  font-size: 25px;
+  color: white;
+}
+hr
+{
+  border-top: 2px dotted white;
+  border-bottom: 2px dotted white;
+  border-left: 2px dotted white;
+  border-right: 2px dotted white;
+}
+input:hover
+{
+  background-color: #09bdbd;
+  height: 62px;
+  width: 62px;
+    text-align: center;
+}
